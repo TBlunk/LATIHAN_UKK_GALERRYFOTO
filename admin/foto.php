@@ -82,7 +82,7 @@ if ($_SESSION['status'] != 'login') {
                                     <th>Judul Foto</th>
                                     <th>Deskripsi</th>
                                     <th>Tanggal</th>
-                                    <th>Album</th>
+                    
                                     <th>Aksi</th>
                                 </tr>
                             </thead>
